@@ -1,0 +1,1 @@
+These are the announcements of some projects in my machine learning class and AI class. The integerate_project is about classifying short messages. The pppprojects2 is about predicting the taxi situation. And the net_idential uses CNN for Handwritten Digit Recognition. 
